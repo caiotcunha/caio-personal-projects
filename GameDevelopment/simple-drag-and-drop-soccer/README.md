@@ -1,2 +1,2 @@
-# caio-personal-projects
-Portfolio of projects developed during my studies and personal learning journey.
+# Simple Game using SDL library
+Started to study SDL library in C for game development
