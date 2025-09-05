@@ -1,0 +1,2 @@
+## Introduction to Data Science
+This project was developed as part of the Introduction to Data Science course. It involved exploring, cleaning, and analyzing datasets using Python, with the goal of applying fundamental data science techniques. Through it, I practiced data manipulation, visualization, and basic statistical analysis, strengthening my skills in Python and data-driven problem solving.
