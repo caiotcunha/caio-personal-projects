@@ -10,3 +10,4 @@ use the keyboard arrows to move from side to side
 use backspace for shooting
 
 ## Game running
+![allegro](https://github.com/user-attachments/assets/f36eba64-d35b-4385-bc9d-02cc762eaeee)
