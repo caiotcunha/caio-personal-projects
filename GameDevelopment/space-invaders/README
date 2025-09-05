@@ -1,0 +1,12 @@
+## Introduction
+This project was done to learn the basics of programing in C language as well as learn about game development
+
+## To run
+Install allegro library
+run the executable
+
+## Tutorial
+use the keyboard arrows to move from side to side
+use backspace for shooting
+
+## Game running
